@@ -59,5 +59,5 @@ The optimization successfully converges to the following values for the unknown 
 
 ## Example Submission Format (Desmos)
 Using the extracted parameters, the parametric curve translates to the following format:
-$$$$
+
 <img src="desmos_plot.png" alt="Desmos Plot">
