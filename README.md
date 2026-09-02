@@ -59,7 +59,5 @@ The optimization successfully converges to the following values for the unknown 
 
 ## Example Submission Format (Desmos)
 Using the extracted parameters, the parametric curve translates to the following format:
-
-```text
-\left(t*\cos(0.523598)-e^{0.03\left|t\right|}\cdot\sin(0.3t)\sin(0.523598)+55.0, 42+t*\sin(0.523598)+e^{0.03\left|t\right|}\cdot\sin(0.3t)\cos(0.523598)\right)
-```
+$$$$
+<img src="desmos_plot.png" alt="Desmos Plot">
